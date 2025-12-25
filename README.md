@@ -7,7 +7,7 @@ It is React-based frontend application that visualizes branch-wise sales perform
 ## 🚀 Live Hosted URL
 
 👉 **Frontend Application:**  
-https://<sales-comparison-report-two.vercel.app/>
+https://sales-comparison-report-two.vercel.app/
 
 > Note: As the application depends on the backend API and if the API is temporarily unavailable, an error message will be displayed.
 
@@ -117,5 +117,6 @@ src/
 
 ## ⚠️ Error Handling
 - If the backend API is unavailable, the application displays a clear and user-friendly error message
+
 
 
