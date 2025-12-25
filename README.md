@@ -29,6 +29,7 @@ https://<sales-comparison-report-two.vercel.app/>
 ---
 
 ## 📂 Project Structure
+```
 src/
 │
 ├── App.js
@@ -83,7 +84,7 @@ src/
 │ └── VolumeGrowthChart.jsx
 │
 └── assets/
-
+```
 ---
 
 ## 📈 Application Features & Report Explanation
@@ -116,4 +117,5 @@ src/
 
 ## ⚠️ Error Handling
 - If the backend API is unavailable, the application displays a clear and user-friendly error message
+
 
